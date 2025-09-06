@@ -1,0 +1,44 @@
+{
+  "monasteries": [
+    {
+      "id": "rumtek",
+      "name": "Rumtek Monastery",
+      "location": "Rumtek, Sikkim",
+      "description": "Rumtek, also known as the Dharma Chakra Centre, is the largest monastery in Sikkim.",
+      "longDescription": "Rumtek Monastery is the largest and most significant monastery in Sikkim. It serves as the main seat of the Karma Kagyu lineage, one of the main schools of Tibetan Buddhism. The monastery is situated 24 km from Gangtok and is known for its beautiful architecture, stunning gardens, and a collection of rare Buddhist artifacts. The main temple is a magnificent structure with detailed murals and sculptures.",
+      "imageUrl": "/assets/images/rumtek-hero.jpg",
+      "travelInfo": "To get to Rumtek, you can hire a private taxi or take a shared jeep from Gangtok. The journey takes about an hour, depending on traffic. The nearest airport is Pakyong Airport, and the nearest major railway station is New Jalpaiguri (NJP) in West Bengal.",
+      "coordinates": [27.3005, 88.5524]
+    },
+    {
+      "id": "pemayangtse",
+      "name": "Pemayangtse Monastery",
+      "location": "Pelling, Sikkim",
+      "description": "Pemayangtse is one of the oldest and most important monasteries in Sikkim, known for its intricate sculptures and paintings.",
+      "longDescription": "Founded in 1705, Pemayangtse Monastery is one of the most revered in the state. It belongs to the Nyingma sect of Tibetan Buddhism and is a three-storied structure adorned with intricate wood carvings, paintings, and statues. The monastery is known for its serene ambiance and stunning views of the surrounding mountains, including the majestic Kanchenjunga.",
+      "imageUrl": "/assets/images/pemayangtse.jpg",
+      "travelInfo": "Pemayangtse Monastery is located near the town of Pelling in West Sikkim. Pelling is well-connected by road to Gangtok and other major towns. From Pelling, you can hire a local taxi to reach the monastery.",
+      "coordinates": [27.3235, 88.2494]
+    },
+    {
+      "id": "enchey",
+      "name": "Enchey Monastery",
+      "location": "Gangtok, Sikkim",
+      "description": "Enchey Monastery is an important seat of the Nyingma order of Vajrayana Buddhism, known for its serene setting.",
+      "longDescription": "Enchey Monastery is located about 3 km from the main town of Gangtok. Established in the early 20th century, it is a significant center of the Nyingma order. The monastery is set amidst a lush forest and is known for its peaceful environment and beautiful prayer flags.",
+      "imageUrl": "/assets/images/enchey.jpg",
+      "travelInfo": "Enchey Monastery is easily accessible by a short taxi ride from Gangtok city center.",
+      "coordinates": [27.3331, 88.6256]
+    },
+    {
+      "id": "tashiding",
+      "name": "Tashiding Monastery",
+      "location": "Tashiding, Sikkim",
+      "description": "Tashiding Monastery is revered as the 'Heart of Sikkim' due to its sacred significance.",
+      "longDescription": "Tashiding Monastery is considered one of the holiest places in Sikkim. Perched on a hilltop overlooking the confluence of the Rathong Chu and Rangeet rivers, it holds a special place in Buddhist mythology. The monastery is known for its annual 'Bumchu' ceremony, where a sacred vase of water is opened to predict the future.",
+      "imageUrl": "/assets/images/tashiding.jpg",
+      "travelInfo": "Tashiding is a remote location in West Sikkim. It can be reached by road from Gangtok or Pelling, but the journey is long. Shared jeeps are a common mode of transport.",
+      "coordinates": [27.3198, 88.3541]
+    }
+  ]
+}

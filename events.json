@@ -1,0 +1,22 @@
+{
+  "festivals": [
+    {
+      "name": "Losoong / Namsung",
+      "month": "December (as per Lunar calendar)",
+      "significance": "Marks the end of the harvest season and the New Year for the indigenous Lepcha-Bhutia communities. It is a time of celebration with traditional dances and feasting.",
+      "monasteries": ["Rumtek", "Phodong", "Various monasteries"]
+    },
+    {
+      "name": "Pang Lhabsol",
+      "month": "August/September (as per Lunar calendar)",
+      "significance": "Honors Mount Kanchenjunga, the guardian deity of Sikkim. The festival features warrior dances and traditional rituals.",
+      "monasteries": ["Pemayangtse", "Ralang", "Tsuklakhang Palace"]
+    },
+    {
+      "name": "Lhabab Dhuchen",
+      "month": "October/November (as per Lunar calendar)",
+      "significance": "Celebrates the Buddha's descent from the heavenly realm back to earth. A day of great merit and reverence for Buddhists.",
+      "monasteries": ["Various monasteries in Sikkim"]
+    }
+  ]
+}

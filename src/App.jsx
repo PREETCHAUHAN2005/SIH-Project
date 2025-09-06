@@ -6,9 +6,9 @@ import Home from './pages/Home';
 import MonasteryProfile from './pages/MonasteryProfile';
 import CulturalCalendar from './pages/CulturalCalendar';
 import DigitalArchives from './pages/DigitalArchives';
-import InteractiveMap from './pages/InteractiveMap';
-import BestTimeToVisit from './pages/BestTimeToVisit';
-import './styles/main.css';
+// import InteractiveMap from './pages/InteractiveMap';
+// import BestTimeToVisit from './pages/BestTimeToVisit';
+import './App.css';
 
 function App() {
   return (
@@ -21,8 +21,8 @@ function App() {
             <Route path="/monastery/:id" element={<MonasteryProfile />} />
             <Route path="/calendar" element={<CulturalCalendar />} />
             <Route path="/archives" element={<DigitalArchives />} />
-            <Route path="/map" element={<InteractiveMap />} />
-            <Route path="/best-time-to-visit" element={<BestTimeToVisit />} />
+            {/* <Route path="/map" element={<InteractiveMap />} />
+            <Route path="/best-time-to-visit" element={<BestTimeToVisit />} /> */}
           </Routes>
         </main>
         <Footer />

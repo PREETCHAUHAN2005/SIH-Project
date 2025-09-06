@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import MonasteryCard from '../components/MonasteryCard';
+import MonasteryCard from './MonasteryCard';
 import data from '../data/monasteries.json';
 
 const Home = () => {
